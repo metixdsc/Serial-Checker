@@ -9,4 +9,4 @@ include :
 - GPU 
 - RAM
 - CPU
-By Metix
+- By Metix
