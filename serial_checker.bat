@@ -1,4 +1,3 @@
-
 @echo off
 title Serial Checker made free by metix
 echo.
